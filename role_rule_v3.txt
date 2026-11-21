@@ -1,0 +1,6 @@
+EEGECoGBench person-role rule, version 3
+rule_sha256: 6c3d13a4ed713c8a3ec2dd6e5092bf349b5dd828a66b17e2a7bb02450878a0b6
+  (SHA-256 of src/paired/splits/roles.py followed by src/paired/splits/exposed_people.tsv)
+T_BEACON: 2026-11-23T12:00:00Z
+beacon: drand quicknet round 34210612, chain 52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971
+input_sha256: 56a9083a9ecad6410f6acd88c3792b6ae4605630d85ea413e4f76afad773e7d0
